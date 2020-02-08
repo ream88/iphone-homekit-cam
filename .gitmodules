@@ -1,0 +1,3 @@
+[submodule "docker-ffmpeg-ndi"]
+	path = docker-ffmpeg-ndi
+	url = https://github.com/johanels/docker-FFmpegNDI.git
