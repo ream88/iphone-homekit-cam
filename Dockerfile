@@ -1,1 +1,0 @@
-FROM haihappen/ffmpeg-ndi
